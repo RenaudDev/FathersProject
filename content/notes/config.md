@@ -12,7 +12,7 @@ The majority of configuration can be found under `data/config.yaml`. An annotate
 
 ```yaml {title="data/config.yaml"}
 # The name to display in the footer
-name: Jacky Zhao
+name: Renaud Gagne
 
 # whether to globally show the table of contents on each page
 # this can be turned off on a per-page basis by adding this to the
@@ -55,7 +55,7 @@ enableRecentNotes: false
 # whether to display an 'edit' button next to the last edited field
 # that links to github
 enableGitHubEdit: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/RenaudDev/FathersProject/tree/hugo/content
 
 # whether to use Operand to power semantic search
 # IMPORTANT: replace this API key with your own if you plan on using
@@ -65,8 +65,7 @@ operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 
 # page description used for SEO
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  The Father's Project is open source adventure to help the world discover the Father's of the Church through the ages along with Biblical references.
 
 # title of the home page (also for SEO)
 page_title:
@@ -77,7 +76,7 @@ links:
   - link_name: Twitter
     link: https://twitter.com/_jzhao
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/RenaudDev/FathersProject
 ```
 
 ### Code Block Titles
