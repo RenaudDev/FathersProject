@@ -34,5 +34,6 @@ enableToc: false
 - [[Scripture/Song of Solomon/Song of Solomon]]
 - [[Scripture/Isaiah/Isaiah]]
 - [[Scripture/Jeremiah/Jeremiah]]
+- [[content/Scripture/Genesis/Genesis]]
 
 ### New Testament
