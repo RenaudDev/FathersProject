@@ -10,5 +10,3 @@ enableToc: false
 
 ## Scriptures
 - [[Old Testament]]
-
-### New Testament
