@@ -7,5 +7,3 @@ enableToc: false
 
 - [[content/Ignatius of Antioch]]
 - [[Ignatius of Antioch]]
-- [Ignatius of Antioch](content/Ignatius%20of%20Antioch.md)
-
