@@ -11,7 +11,7 @@ I have become acquainted with your name, much-beloved in God, which you have acq
 
 ## Chapter 2. Congratulations and entreaties
 
-As to my fellow-servant Burrhus, your deacon in regard to God and blessed in all things, I beg that he may continue longer, both for your honour and that of your bishop. And Crocus also, worthy both of God and you, whom I have received as the manifestation of your love, [has in all things refreshed me, as the Father of our Lord Jesus Christ shall also refresh him](../Scripture/1Corinthians/1Cor-16#v18) ; together with Onesimus, and Burrhus, and Euplus, and Fronto, by means of whom, I have, as to love, beheld all of you. May I always have joy of you, if indeed I be worthy of it. It is therefore befitting that you should in every way glorify Jesus Christ, who has glorified you, that by a [unanimous obedience you may be perfectly joined together in the same mind, and in the same judgment, and may all speak the same thing concerning the same thing](../Scripture/1Corinthians/1Cor-01.md#v10), and that, being subject to the bishop and the presbytery, you may in all respects be sanctified.
+As to my fellow-servant Burrhus, your deacon in regard to God and blessed in all things, I beg that he may continue longer, both for your honour and that of your bishop. And Crocus also, worthy both of God and you, whom I have received as the manifestation of your love, [has in all things refreshed me, as the Father of our Lord Jesus Christ shall also refresh him](content/Scripture/1Corinthians/1Cor-16.md#v18) ; together with Onesimus, and Burrhus, and Euplus, and Fronto, by means of whom, I have, as to love, beheld all of you. May I always have joy of you, if indeed I be worthy of it. It is therefore befitting that you should in every way glorify Jesus Christ, who has glorified you, that by a [unanimous obedience you may be perfectly joined together in the same mind, and in the same judgment, and may all speak the same thing concerning the same thing](content/Scripture/1Corinthians/1Cor-01.md#v10), and that, being subject to the bishop and the presbytery, you may in all respects be sanctified.
 
 ## Chapter 3. Exhortations to unity
 
@@ -63,11 +63,11 @@ None of these things is hid from you, [if you perfectly possess that faith and l
 
 ## Chapter 15. Exhortation to confess Christ by silence as well as speech
 
-It is better for a man to be silent and be a Christian, than to talk and not to be one. It is good to teach, if he who speaks also acts. There is then one Teacher, who spoke and it was done; while even those things which He did in silence are worthy of the Father. He who possesses the word of Jesus, is truly able to hear even His very silence, that he may be perfect, and may both act as he speaks, and be recognised by his silence. There is nothing which is hid from God, but our very secrets are near to Him. Let us therefore do all things as those who have Him dwelling in us, [that we may be His temples](../Scripture/1Corinthians/1Cor-06.md#v19), and He may be in us as our God, which indeed He is, and will manifest Himself before our faces. Wherefore we justly love Him.
+It is better for a man to be silent and be a Christian, than to talk and not to be one. It is good to teach, if he who speaks also acts. There is then one Teacher, who spoke and it was done; while even those things which He did in silence are worthy of the Father. He who possesses the word of Jesus, is truly able to hear even His very silence, that he may be perfect, and may both act as he speaks, and be recognised by his silence. There is nothing which is hid from God, but our very secrets are near to Him. Let us therefore do all things as those who have Him dwelling in us, [that we may be His temples](content/Scripture/1Corinthians/1Cor-06.md#v19), and He may be in us as our God, which indeed He is, and will manifest Himself before our faces. Wherefore we justly love Him.
 
 ## Chapter 16. The fate of false teachers
 
-[Do not err, my brethren.](James-01#v16) Those that corrupt families shall not inherit the kingdom of God. [If, then, those who do this as respects the flesh have suffered death,](../Scripture/1Corinthians/1Cor-06.md#v9) how much more shall this be the case with any one who corrupts by wicked doctrine the faith of God, for which Jesus Christ was crucified! Such an one becoming defiled in this way, shall go away into everlasting fire, and so shall every one that hearkens unto him.
+[Do not err, my brethren.](James-01#v16) Those that corrupt families shall not inherit the kingdom of God. [If, then, those who do this as respects the flesh have suffered death,](content/Scripture/1Corinthians/1Cor-06.md#v9) how much more shall this be the case with any one who corrupts by wicked doctrine the faith of God, for which Jesus Christ was crucified! Such an one becoming defiled in this way, shall go away into everlasting fire, and so shall every one that hearkens unto him.
 
 ## Chapter 17. Beware of false doctrines
 
@@ -75,7 +75,7 @@ It is better for a man to be silent and be a Christian, than to talk and not to 
 
 ## Chapter 18. The glory of the cross
 
-[Let my spirit be counted as nothing for the sake of the cross, which is a stumbling-block to those that do not believe, but to us salvation and life eternal.](../Scripture/1Corinthians/1Cor-01.md#v18) [Where is the wise man? Where the disputer? Where is the boasting of those who are styled prudent?](../Scripture/1Corinthians/1Cor-01.md#v20) For our God, Jesus Christ, was, according to the appointment of God, conceived in the womb by Mary, of the seed of David, but by the Holy Ghost. He was born and baptized, that by His passion He might purify the water.
+[Let my spirit be counted as nothing for the sake of the cross, which is a stumbling-block to those that do not believe, but to us salvation and life eternal.](content/Scripture/1Corinthians/1Cor-01.md#v18) [Where is the wise man? Where the disputer? Where is the boasting of those who are styled prudent?](content/Scripture/1Corinthians/1Cor-01.md#v20) For our God, Jesus Christ, was, according to the appointment of God, conceived in the womb by Mary, of the seed of David, but by the Holy Ghost. He was born and baptized, that by His passion He might purify the water.
 
 ## Chapter 19. Three celebrated mysteries
 

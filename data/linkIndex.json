@@ -4,13 +4,129 @@
       "/": [
         {
           "source": "/",
-          "target": "/content/notes/Ignatius-Of-Antioch",
-          "text": "content/notes/Ignatius Of Antioch"
+          "target": "/Ignatius-Of-Antioch/Ignatius-Of-Antioch",
+          "text": "Ignatius Of Antioch/Ignatius Of Antioch"
+        }
+      ],
+      "/Ignatius-Of-Antioch/Ignatius-Of-Antioch": [
+        {
+          "source": "/Ignatius-Of-Antioch/Ignatius-Of-Antioch",
+          "target": "/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "text": "The Epistle of Ignatius of Antioch to the Ephesians"
         },
         {
-          "source": "/",
-          "target": "/content/notes/Old-Testament",
-          "text": "content/notes/Old Testament"
+          "source": "/Ignatius-Of-Antioch/Ignatius-Of-Antioch",
+          "target": "/The-Epistle-of-Ignatius-to-the-Magnesians",
+          "text": "The Epistle of Ignatius to the Magnesians"
+        }
+      ],
+      "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians": [
+        {
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "target": "/../Scripture/Ephesians/Ephes-05.md/",
+          "text": "become the disciple of Him who gave Himself for us, an offering and sacrifice to God"
+        },
+        {
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "target": "/../Scripture/1Corinthians/1Cor-16",
+          "text": "has in all things refreshed me, as the Father of our Lord Jesus Christ shall also refresh him"
+        },
+        {
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "target": "/../Scripture/1Corinthians/1Cor-01",
+          "text": "unanimous obedience you may be perfectly joined together in the same mind, and in the same judgment, and may all speak the same thing concerning the same thing"
+        },
+        {
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "target": "/Matt-18",
+          "text": "For if the prayer of one or two possesses"
+        },
+        {
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "target": "/Matt-24",
+          "text": "For we ought to receive every one whom the Master of the house sends to be over His household"
+        },
+        {
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "target": "/1Pet-02",
+          "text": "as being stones of the temple of the Father, prepared for the building of God the Father"
+        },
+        {
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "target": "/John-12",
+          "text": "making use of the Holy Spirit as a rope, while your faith was the means by which you ascended, and your love the way which led up to God"
+        },
+        {
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "target": "/Col-01",
+          "text": "Be meek in response to their wrath, humble in opposition to their boasting: to their blasphemies return your prayers; in contrast to their error, be stedfast in the faith"
+        },
+        {
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "target": "/1Tim-01",
+          "text": "if you perfectly possess that faith and love towards Christ Jesus"
+        },
+        {
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "target": "/1Tim-01",
+          "text": "For the beginning is faith, and the end is love."
+        },
+        {
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "target": "/Matt-12",
+          "text": "The tree is made manifest by its fruit;"
+        },
+        {
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "target": "/../Scripture/1Corinthians/1Cor-06",
+          "text": "that we may be His temples"
+        },
+        {
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "target": "/James-01",
+          "text": "Do not err, my brethren."
+        },
+        {
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "target": "/../Scripture/1Corinthians/1Cor-06",
+          "text": "If, then, those who do this as respects the flesh have suffered death,"
+        },
+        {
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "target": "/John-12",
+          "text": "For this end did the Lord allow the ointment to be poured upon His head,"
+        },
+        {
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "target": "/../Scripture/1Corinthians/1Cor-01",
+          "text": "Let my spirit be counted as nothing for the sake of the cross, which is a stumbling-block to those that do not believe, but to us salvation and life eternal."
+        },
+        {
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "target": "/../Scripture/1Corinthians/1Cor-01",
+          "text": "Where is the wise man? Where the disputer? Where is the boasting of those who are styled prudent?"
+        }
+      ],
+      "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-to-the-Magnesians": [
+        {
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-to-the-Magnesians",
+          "target": "/Matt-27",
+          "text": "And therefore He whom they rightly waited for, having come, raised them from the dead"
+        },
+        {
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-to-the-Magnesians",
+          "target": "/1Tim",
+          "text": "who is our hope"
+        },
+        {
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-to-the-Magnesians",
+          "target": "/../Scripture/Proverbs/Prov-18",
+          "text": "The righteous man is his own accuser"
+        },
+        {
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-to-the-Magnesians",
+          "target": "/Polycarp-of-Smyrna",
+          "text": "Polycarp"
         }
       ],
       "/Scripture/1Chronicles/1Chron-01": [
@@ -37440,18 +37556,6 @@
           "text": "Start Reading →"
         }
       ],
-      "/notes/Ignatius-Of-Antioch": [
-        {
-          "source": "/notes/Ignatius-Of-Antioch",
-          "target": "/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-          "text": "The Epistle of Ignatius of Antioch to the Ephesians"
-        },
-        {
-          "source": "/notes/Ignatius-Of-Antioch",
-          "target": "/The-Epistle-of-Ignatius-to-the-Magnesians",
-          "text": "The Epistle of Ignatius to the Magnesians"
-        }
-      ],
       "/notes/Old-Testament": [
         {
           "source": "/notes/Old-Testament",
@@ -37573,115 +37677,6 @@
           "target": "/Scripture/Jeremiah/Jeremiah",
           "text": "Scripture/Jeremiah/Jeremiah"
         }
-      ],
-      "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians": [
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-          "target": "/../Scripture/Ephesians/Ephes-05.md/",
-          "text": "become the disciple of Him who gave Himself for us, an offering and sacrifice to God"
-        },
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-          "target": "/../Scripture/1Corinthians/1Cor-16",
-          "text": "has in all things refreshed me, as the Father of our Lord Jesus Christ shall also refresh him"
-        },
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-          "target": "/../Scripture/1Corinthians/1Cor-01",
-          "text": "unanimous obedience you may be perfectly joined together in the same mind, and in the same judgment, and may all speak the same thing concerning the same thing"
-        },
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-          "target": "/Matt-18",
-          "text": "For if the prayer of one or two possesses"
-        },
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-          "target": "/Matt-24",
-          "text": "For we ought to receive every one whom the Master of the house sends to be over His household"
-        },
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-          "target": "/1Pet-02",
-          "text": "as being stones of the temple of the Father, prepared for the building of God the Father"
-        },
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-          "target": "/John-12",
-          "text": "making use of the Holy Spirit as a rope, while your faith was the means by which you ascended, and your love the way which led up to God"
-        },
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-          "target": "/Col-01",
-          "text": "Be meek in response to their wrath, humble in opposition to their boasting: to their blasphemies return your prayers; in contrast to their error, be stedfast in the faith"
-        },
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-          "target": "/1Tim-01",
-          "text": "if you perfectly possess that faith and love towards Christ Jesus"
-        },
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-          "target": "/1Tim-01",
-          "text": "For the beginning is faith, and the end is love."
-        },
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-          "target": "/Matt-12",
-          "text": "The tree is made manifest by its fruit;"
-        },
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-          "target": "/../Scripture/1Corinthians/1Cor-06",
-          "text": "that we may be His temples"
-        },
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-          "target": "/James-01",
-          "text": "Do not err, my brethren."
-        },
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-          "target": "/../Scripture/1Corinthians/1Cor-06",
-          "text": "If, then, those who do this as respects the flesh have suffered death,"
-        },
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-          "target": "/John-12",
-          "text": "For this end did the Lord allow the ointment to be poured upon His head,"
-        },
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-          "target": "/../Scripture/1Corinthians/1Cor-01",
-          "text": "Let my spirit be counted as nothing for the sake of the cross, which is a stumbling-block to those that do not believe, but to us salvation and life eternal."
-        },
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-          "target": "/../Scripture/1Corinthians/1Cor-01",
-          "text": "Where is the wise man? Where the disputer? Where is the boasting of those who are styled prudent?"
-        }
-      ],
-      "/notes/The-Epistle-of-Ignatius-to-the-Magnesians": [
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-to-the-Magnesians",
-          "target": "/Matt-27",
-          "text": "And therefore He whom they rightly waited for, having come, raised them from the dead"
-        },
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-to-the-Magnesians",
-          "target": "/1Tim",
-          "text": "who is our hope"
-        },
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-to-the-Magnesians",
-          "target": "/../Scripture/Proverbs/Prov-18",
-          "text": "The righteous man is his own accuser"
-        },
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-to-the-Magnesians",
-          "target": "/Polycarp-of-Smyrna",
-          "text": "Polycarp"
-        }
       ]
     },
     "backlinks": {
@@ -37694,50 +37689,50 @@
       ],
       "/../Scripture/1Corinthians/1Cor-01": [
         {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
           "target": "/../Scripture/1Corinthians/1Cor-01",
           "text": "unanimous obedience you may be perfectly joined together in the same mind, and in the same judgment, and may all speak the same thing concerning the same thing"
         },
         {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
           "target": "/../Scripture/1Corinthians/1Cor-01",
           "text": "Let my spirit be counted as nothing for the sake of the cross, which is a stumbling-block to those that do not believe, but to us salvation and life eternal."
         },
         {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
           "target": "/../Scripture/1Corinthians/1Cor-01",
           "text": "Where is the wise man? Where the disputer? Where is the boasting of those who are styled prudent?"
         }
       ],
       "/../Scripture/1Corinthians/1Cor-06": [
         {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
           "target": "/../Scripture/1Corinthians/1Cor-06",
           "text": "that we may be His temples"
         },
         {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
           "target": "/../Scripture/1Corinthians/1Cor-06",
           "text": "If, then, those who do this as respects the flesh have suffered death,"
         }
       ],
       "/../Scripture/1Corinthians/1Cor-16": [
         {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
           "target": "/../Scripture/1Corinthians/1Cor-16",
           "text": "has in all things refreshed me, as the Father of our Lord Jesus Christ shall also refresh him"
         }
       ],
       "/../Scripture/Ephesians/Ephes-05.md/": [
         {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
           "target": "/../Scripture/Ephesians/Ephes-05.md/",
           "text": "become the disciple of Him who gave Himself for us, an offering and sacrifice to God"
         }
       ],
       "/../Scripture/Proverbs/Prov-18": [
         {
-          "source": "/notes/The-Epistle-of-Ignatius-to-the-Magnesians",
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-to-the-Magnesians",
           "target": "/../Scripture/Proverbs/Prov-18",
           "text": "The righteous man is his own accuser"
         }
@@ -40179,29 +40174,29 @@
       ],
       "/1Pet-02": [
         {
-          "source": "/Scripture/60-1-Peter/1Pet-01",
-          "target": "/1Pet-02",
-          "text": "1 Peter 02 →"
-        },
-        {
-          "source": "/Scripture/60-1-Peter/1Pet-01",
-          "target": "/1Pet-02",
-          "text": "1 Peter 02 →"
-        },
-        {
-          "source": "/Scripture/60-1-Peter/1Pet-03",
-          "target": "/1Pet-02",
-          "text": "← 1 Peter 02"
-        },
-        {
-          "source": "/Scripture/60-1-Peter/1Pet-03",
-          "target": "/1Pet-02",
-          "text": "← 1 Peter 02"
-        },
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
           "target": "/1Pet-02",
           "text": "as being stones of the temple of the Father, prepared for the building of God the Father"
+        },
+        {
+          "source": "/Scripture/60-1-Peter/1Pet-01",
+          "target": "/1Pet-02",
+          "text": "1 Peter 02 →"
+        },
+        {
+          "source": "/Scripture/60-1-Peter/1Pet-01",
+          "target": "/1Pet-02",
+          "text": "1 Peter 02 →"
+        },
+        {
+          "source": "/Scripture/60-1-Peter/1Pet-03",
+          "target": "/1Pet-02",
+          "text": "← 1 Peter 02"
+        },
+        {
+          "source": "/Scripture/60-1-Peter/1Pet-03",
+          "target": "/1Pet-02",
+          "text": "← 1 Peter 02"
         }
       ],
       "/1Pet-03": [
@@ -41336,12 +41331,22 @@
       ],
       "/1Tim": [
         {
-          "source": "/notes/The-Epistle-of-Ignatius-to-the-Magnesians",
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-to-the-Magnesians",
           "target": "/1Tim",
           "text": "who is our hope"
         }
       ],
       "/1Tim-01": [
+        {
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "target": "/1Tim-01",
+          "text": "if you perfectly possess that faith and love towards Christ Jesus"
+        },
+        {
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "target": "/1Tim-01",
+          "text": "For the beginning is faith, and the end is love."
+        },
         {
           "source": "/Scripture/54-1-Timothy/1-Timothy",
           "target": "/1Tim-01",
@@ -41356,16 +41361,6 @@
           "source": "/Scripture/54-1-Timothy/1Tim-02",
           "target": "/1Tim-01",
           "text": "← 1 Timothy 01"
-        },
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-          "target": "/1Tim-01",
-          "text": "if you perfectly possess that faith and love towards Christ Jesus"
-        },
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-          "target": "/1Tim-01",
-          "text": "For the beginning is faith, and the end is love."
         }
       ],
       "/1Tim-02": [
@@ -46035,6 +46030,11 @@
       ],
       "/Col-01": [
         {
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "target": "/Col-01",
+          "text": "Be meek in response to their wrath, humble in opposition to their boasting: to their blasphemies return your prayers; in contrast to their error, be stedfast in the faith"
+        },
+        {
           "source": "/Scripture/51-Colossians/Col-02",
           "target": "/Col-01",
           "text": "← Colossians 01"
@@ -46048,11 +46048,6 @@
           "source": "/Scripture/51-Colossians/Colossians",
           "target": "/Col-01",
           "text": "Start Reading →"
-        },
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-          "target": "/Col-01",
-          "text": "Be meek in response to their wrath, humble in opposition to their boasting: to their blasphemies return your prayers; in contrast to their error, be stedfast in the faith"
         }
       ],
       "/Col-02": [
@@ -54291,6 +54286,13 @@
           "text": "Hosea"
         }
       ],
+      "/Ignatius-Of-Antioch/Ignatius-Of-Antioch": [
+        {
+          "source": "/",
+          "target": "/Ignatius-Of-Antioch/Ignatius-Of-Antioch",
+          "text": "Ignatius Of Antioch/Ignatius Of Antioch"
+        }
+      ],
       "/Isa-01": [
         {
           "source": "/Scripture/Isaiah/Isa-02",
@@ -56444,6 +56446,11 @@
       ],
       "/James-01": [
         {
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "target": "/James-01",
+          "text": "Do not err, my brethren."
+        },
+        {
           "source": "/Scripture/59-James/James-02",
           "target": "/James-01",
           "text": "← James 01"
@@ -56457,11 +56464,6 @@
           "source": "/Scripture/59-James/James",
           "target": "/James-01",
           "text": "Start Reading →"
-        },
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-          "target": "/James-01",
-          "text": "Do not err, my brethren."
         }
       ],
       "/James-02": [
@@ -60058,34 +60060,34 @@
       ],
       "/John-12": [
         {
-          "source": "/Scripture/43-John/John-11",
-          "target": "/John-12",
-          "text": "John 12 →"
-        },
-        {
-          "source": "/Scripture/43-John/John-11",
-          "target": "/John-12",
-          "text": "John 12 →"
-        },
-        {
-          "source": "/Scripture/43-John/John-13",
-          "target": "/John-12",
-          "text": "← John 12"
-        },
-        {
-          "source": "/Scripture/43-John/John-13",
-          "target": "/John-12",
-          "text": "← John 12"
-        },
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
           "target": "/John-12",
           "text": "making use of the Holy Spirit as a rope, while your faith was the means by which you ascended, and your love the way which led up to God"
         },
         {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
           "target": "/John-12",
           "text": "For this end did the Lord allow the ointment to be poured upon His head,"
+        },
+        {
+          "source": "/Scripture/43-John/John-11",
+          "target": "/John-12",
+          "text": "John 12 →"
+        },
+        {
+          "source": "/Scripture/43-John/John-11",
+          "target": "/John-12",
+          "text": "John 12 →"
+        },
+        {
+          "source": "/Scripture/43-John/John-13",
+          "target": "/John-12",
+          "text": "← John 12"
+        },
+        {
+          "source": "/Scripture/43-John/John-13",
+          "target": "/John-12",
+          "text": "← John 12"
         }
       ],
       "/John-13": [
@@ -64430,29 +64432,29 @@
       ],
       "/Matt-12": [
         {
-          "source": "/Scripture/40-Matthew/Matt-11",
-          "target": "/Matt-12",
-          "text": "Matthew 12 →"
-        },
-        {
-          "source": "/Scripture/40-Matthew/Matt-11",
-          "target": "/Matt-12",
-          "text": "Matthew 12 →"
-        },
-        {
-          "source": "/Scripture/40-Matthew/Matt-13",
-          "target": "/Matt-12",
-          "text": "← Matthew 12"
-        },
-        {
-          "source": "/Scripture/40-Matthew/Matt-13",
-          "target": "/Matt-12",
-          "text": "← Matthew 12"
-        },
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
           "target": "/Matt-12",
           "text": "The tree is made manifest by its fruit;"
+        },
+        {
+          "source": "/Scripture/40-Matthew/Matt-11",
+          "target": "/Matt-12",
+          "text": "Matthew 12 →"
+        },
+        {
+          "source": "/Scripture/40-Matthew/Matt-11",
+          "target": "/Matt-12",
+          "text": "Matthew 12 →"
+        },
+        {
+          "source": "/Scripture/40-Matthew/Matt-13",
+          "target": "/Matt-12",
+          "text": "← Matthew 12"
+        },
+        {
+          "source": "/Scripture/40-Matthew/Matt-13",
+          "target": "/Matt-12",
+          "text": "← Matthew 12"
         }
       ],
       "/Matt-13": [
@@ -64567,29 +64569,29 @@
       ],
       "/Matt-18": [
         {
-          "source": "/Scripture/40-Matthew/Matt-17",
-          "target": "/Matt-18",
-          "text": "Matthew 18 →"
-        },
-        {
-          "source": "/Scripture/40-Matthew/Matt-17",
-          "target": "/Matt-18",
-          "text": "Matthew 18 →"
-        },
-        {
-          "source": "/Scripture/40-Matthew/Matt-19",
-          "target": "/Matt-18",
-          "text": "← Matthew 18"
-        },
-        {
-          "source": "/Scripture/40-Matthew/Matt-19",
-          "target": "/Matt-18",
-          "text": "← Matthew 18"
-        },
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
           "target": "/Matt-18",
           "text": "For if the prayer of one or two possesses"
+        },
+        {
+          "source": "/Scripture/40-Matthew/Matt-17",
+          "target": "/Matt-18",
+          "text": "Matthew 18 →"
+        },
+        {
+          "source": "/Scripture/40-Matthew/Matt-17",
+          "target": "/Matt-18",
+          "text": "Matthew 18 →"
+        },
+        {
+          "source": "/Scripture/40-Matthew/Matt-19",
+          "target": "/Matt-18",
+          "text": "← Matthew 18"
+        },
+        {
+          "source": "/Scripture/40-Matthew/Matt-19",
+          "target": "/Matt-18",
+          "text": "← Matthew 18"
         }
       ],
       "/Matt-19": [
@@ -64704,29 +64706,29 @@
       ],
       "/Matt-24": [
         {
-          "source": "/Scripture/40-Matthew/Matt-23",
-          "target": "/Matt-24",
-          "text": "Matthew 24 →"
-        },
-        {
-          "source": "/Scripture/40-Matthew/Matt-23",
-          "target": "/Matt-24",
-          "text": "Matthew 24 →"
-        },
-        {
-          "source": "/Scripture/40-Matthew/Matt-25",
-          "target": "/Matt-24",
-          "text": "← Matthew 24"
-        },
-        {
-          "source": "/Scripture/40-Matthew/Matt-25",
-          "target": "/Matt-24",
-          "text": "← Matthew 24"
-        },
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
           "target": "/Matt-24",
           "text": "For we ought to receive every one whom the Master of the house sends to be over His household"
+        },
+        {
+          "source": "/Scripture/40-Matthew/Matt-23",
+          "target": "/Matt-24",
+          "text": "Matthew 24 →"
+        },
+        {
+          "source": "/Scripture/40-Matthew/Matt-23",
+          "target": "/Matt-24",
+          "text": "Matthew 24 →"
+        },
+        {
+          "source": "/Scripture/40-Matthew/Matt-25",
+          "target": "/Matt-24",
+          "text": "← Matthew 24"
+        },
+        {
+          "source": "/Scripture/40-Matthew/Matt-25",
+          "target": "/Matt-24",
+          "text": "← Matthew 24"
         }
       ],
       "/Matt-25": [
@@ -64775,29 +64777,29 @@
       ],
       "/Matt-27": [
         {
-          "source": "/Scripture/40-Matthew/Matt-26",
-          "target": "/Matt-27",
-          "text": "Matthew 27 →"
-        },
-        {
-          "source": "/Scripture/40-Matthew/Matt-26",
-          "target": "/Matt-27",
-          "text": "Matthew 27 →"
-        },
-        {
-          "source": "/Scripture/40-Matthew/Matt-28",
-          "target": "/Matt-27",
-          "text": "← Matthew 27"
-        },
-        {
-          "source": "/Scripture/40-Matthew/Matt-28",
-          "target": "/Matt-27",
-          "text": "← Matthew 27"
-        },
-        {
-          "source": "/notes/The-Epistle-of-Ignatius-to-the-Magnesians",
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-to-the-Magnesians",
           "target": "/Matt-27",
           "text": "And therefore He whom they rightly waited for, having come, raised them from the dead"
+        },
+        {
+          "source": "/Scripture/40-Matthew/Matt-26",
+          "target": "/Matt-27",
+          "text": "Matthew 27 →"
+        },
+        {
+          "source": "/Scripture/40-Matthew/Matt-26",
+          "target": "/Matt-27",
+          "text": "Matthew 27 →"
+        },
+        {
+          "source": "/Scripture/40-Matthew/Matt-28",
+          "target": "/Matt-27",
+          "text": "← Matthew 27"
+        },
+        {
+          "source": "/Scripture/40-Matthew/Matt-28",
+          "target": "/Matt-27",
+          "text": "← Matthew 27"
         }
       ],
       "/Matt-28": [
@@ -67085,7 +67087,7 @@
       ],
       "/Polycarp-of-Smyrna": [
         {
-          "source": "/notes/The-Epistle-of-Ignatius-to-the-Magnesians",
+          "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-to-the-Magnesians",
           "target": "/Polycarp-of-Smyrna",
           "text": "Polycarp"
         }
@@ -74808,14 +74810,14 @@
       ],
       "/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians": [
         {
-          "source": "/notes/Ignatius-Of-Antioch",
+          "source": "/Ignatius-Of-Antioch/Ignatius-Of-Antioch",
           "target": "/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
           "text": "The Epistle of Ignatius of Antioch to the Ephesians"
         }
       ],
       "/The-Epistle-of-Ignatius-to-the-Magnesians": [
         {
-          "source": "/notes/Ignatius-Of-Antioch",
+          "source": "/Ignatius-Of-Antioch/Ignatius-Of-Antioch",
           "target": "/The-Epistle-of-Ignatius-to-the-Magnesians",
           "text": "The Epistle of Ignatius to the Magnesians"
         }
@@ -75420,24 +75422,125 @@
           "target": "/Zephaniah",
           "text": "Zephaniah"
         }
-      ],
-      "/content/notes/Ignatius-Of-Antioch": [
-        {
-          "source": "/",
-          "target": "/content/notes/Ignatius-Of-Antioch",
-          "text": "content/notes/Ignatius Of Antioch"
-        }
-      ],
-      "/content/notes/Old-Testament": [
-        {
-          "source": "/",
-          "target": "/content/notes/Old-Testament",
-          "text": "content/notes/Old Testament"
-        }
       ]
     }
   },
   "links": [
+    {
+      "source": "/Ignatius-Of-Antioch/Ignatius-Of-Antioch",
+      "target": "/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+      "text": "The Epistle of Ignatius of Antioch to the Ephesians"
+    },
+    {
+      "source": "/Ignatius-Of-Antioch/Ignatius-Of-Antioch",
+      "target": "/The-Epistle-of-Ignatius-to-the-Magnesians",
+      "text": "The Epistle of Ignatius to the Magnesians"
+    },
+    {
+      "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+      "target": "/../Scripture/Ephesians/Ephes-05.md/",
+      "text": "become the disciple of Him who gave Himself for us, an offering and sacrifice to God"
+    },
+    {
+      "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+      "target": "/../Scripture/1Corinthians/1Cor-16",
+      "text": "has in all things refreshed me, as the Father of our Lord Jesus Christ shall also refresh him"
+    },
+    {
+      "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+      "target": "/../Scripture/1Corinthians/1Cor-01",
+      "text": "unanimous obedience you may be perfectly joined together in the same mind, and in the same judgment, and may all speak the same thing concerning the same thing"
+    },
+    {
+      "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+      "target": "/Matt-18",
+      "text": "For if the prayer of one or two possesses"
+    },
+    {
+      "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+      "target": "/Matt-24",
+      "text": "For we ought to receive every one whom the Master of the house sends to be over His household"
+    },
+    {
+      "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+      "target": "/1Pet-02",
+      "text": "as being stones of the temple of the Father, prepared for the building of God the Father"
+    },
+    {
+      "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+      "target": "/John-12",
+      "text": "making use of the Holy Spirit as a rope, while your faith was the means by which you ascended, and your love the way which led up to God"
+    },
+    {
+      "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+      "target": "/Col-01",
+      "text": "Be meek in response to their wrath, humble in opposition to their boasting: to their blasphemies return your prayers; in contrast to their error, be stedfast in the faith"
+    },
+    {
+      "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+      "target": "/1Tim-01",
+      "text": "if you perfectly possess that faith and love towards Christ Jesus"
+    },
+    {
+      "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+      "target": "/1Tim-01",
+      "text": "For the beginning is faith, and the end is love."
+    },
+    {
+      "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+      "target": "/Matt-12",
+      "text": "The tree is made manifest by its fruit;"
+    },
+    {
+      "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+      "target": "/../Scripture/1Corinthians/1Cor-06",
+      "text": "that we may be His temples"
+    },
+    {
+      "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+      "target": "/James-01",
+      "text": "Do not err, my brethren."
+    },
+    {
+      "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+      "target": "/../Scripture/1Corinthians/1Cor-06",
+      "text": "If, then, those who do this as respects the flesh have suffered death,"
+    },
+    {
+      "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+      "target": "/John-12",
+      "text": "For this end did the Lord allow the ointment to be poured upon His head,"
+    },
+    {
+      "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+      "target": "/../Scripture/1Corinthians/1Cor-01",
+      "text": "Let my spirit be counted as nothing for the sake of the cross, which is a stumbling-block to those that do not believe, but to us salvation and life eternal."
+    },
+    {
+      "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
+      "target": "/../Scripture/1Corinthians/1Cor-01",
+      "text": "Where is the wise man? Where the disputer? Where is the boasting of those who are styled prudent?"
+    },
+    {
+      "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-to-the-Magnesians",
+      "target": "/Matt-27",
+      "text": "And therefore He whom they rightly waited for, having come, raised them from the dead"
+    },
+    {
+      "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-to-the-Magnesians",
+      "target": "/1Tim",
+      "text": "who is our hope"
+    },
+    {
+      "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-to-the-Magnesians",
+      "target": "/../Scripture/Proverbs/Prov-18",
+      "text": "The righteous man is his own accuser"
+    },
+    {
+      "source": "/Ignatius-Of-Antioch/The-Epistle-of-Ignatius-to-the-Magnesians",
+      "target": "/Polycarp-of-Smyrna",
+      "text": "Polycarp"
+    },
     {
       "source": "/Scripture/1Chronicles/1Chron-01",
       "target": "/1Chronicles",
@@ -110355,23 +110458,8 @@
     },
     {
       "source": "/",
-      "target": "/content/notes/Ignatius-Of-Antioch",
-      "text": "content/notes/Ignatius Of Antioch"
-    },
-    {
-      "source": "/",
-      "target": "/content/notes/Old-Testament",
-      "text": "content/notes/Old Testament"
-    },
-    {
-      "source": "/notes/Ignatius-Of-Antioch",
-      "target": "/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-      "text": "The Epistle of Ignatius of Antioch to the Ephesians"
-    },
-    {
-      "source": "/notes/Ignatius-Of-Antioch",
-      "target": "/The-Epistle-of-Ignatius-to-the-Magnesians",
-      "text": "The Epistle of Ignatius to the Magnesians"
+      "target": "/Ignatius-Of-Antioch/Ignatius-Of-Antioch",
+      "text": "Ignatius Of Antioch/Ignatius Of Antioch"
     },
     {
       "source": "/notes/Old-Testament",
@@ -110492,111 +110580,6 @@
       "source": "/notes/Old-Testament",
       "target": "/Scripture/Jeremiah/Jeremiah",
       "text": "Scripture/Jeremiah/Jeremiah"
-    },
-    {
-      "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-      "target": "/../Scripture/Ephesians/Ephes-05.md/",
-      "text": "become the disciple of Him who gave Himself for us, an offering and sacrifice to God"
-    },
-    {
-      "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-      "target": "/../Scripture/1Corinthians/1Cor-16",
-      "text": "has in all things refreshed me, as the Father of our Lord Jesus Christ shall also refresh him"
-    },
-    {
-      "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-      "target": "/../Scripture/1Corinthians/1Cor-01",
-      "text": "unanimous obedience you may be perfectly joined together in the same mind, and in the same judgment, and may all speak the same thing concerning the same thing"
-    },
-    {
-      "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-      "target": "/Matt-18",
-      "text": "For if the prayer of one or two possesses"
-    },
-    {
-      "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-      "target": "/Matt-24",
-      "text": "For we ought to receive every one whom the Master of the house sends to be over His household"
-    },
-    {
-      "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-      "target": "/1Pet-02",
-      "text": "as being stones of the temple of the Father, prepared for the building of God the Father"
-    },
-    {
-      "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-      "target": "/John-12",
-      "text": "making use of the Holy Spirit as a rope, while your faith was the means by which you ascended, and your love the way which led up to God"
-    },
-    {
-      "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-      "target": "/Col-01",
-      "text": "Be meek in response to their wrath, humble in opposition to their boasting: to their blasphemies return your prayers; in contrast to their error, be stedfast in the faith"
-    },
-    {
-      "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-      "target": "/1Tim-01",
-      "text": "if you perfectly possess that faith and love towards Christ Jesus"
-    },
-    {
-      "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-      "target": "/1Tim-01",
-      "text": "For the beginning is faith, and the end is love."
-    },
-    {
-      "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-      "target": "/Matt-12",
-      "text": "The tree is made manifest by its fruit;"
-    },
-    {
-      "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-      "target": "/../Scripture/1Corinthians/1Cor-06",
-      "text": "that we may be His temples"
-    },
-    {
-      "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-      "target": "/James-01",
-      "text": "Do not err, my brethren."
-    },
-    {
-      "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-      "target": "/../Scripture/1Corinthians/1Cor-06",
-      "text": "If, then, those who do this as respects the flesh have suffered death,"
-    },
-    {
-      "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-      "target": "/John-12",
-      "text": "For this end did the Lord allow the ointment to be poured upon His head,"
-    },
-    {
-      "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-      "target": "/../Scripture/1Corinthians/1Cor-01",
-      "text": "Let my spirit be counted as nothing for the sake of the cross, which is a stumbling-block to those that do not believe, but to us salvation and life eternal."
-    },
-    {
-      "source": "/notes/The-Epistle-of-Ignatius-of-Antioch-to-the-Ephesians",
-      "target": "/../Scripture/1Corinthians/1Cor-01",
-      "text": "Where is the wise man? Where the disputer? Where is the boasting of those who are styled prudent?"
-    },
-    {
-      "source": "/notes/The-Epistle-of-Ignatius-to-the-Magnesians",
-      "target": "/Matt-27",
-      "text": "And therefore He whom they rightly waited for, having come, raised them from the dead"
-    },
-    {
-      "source": "/notes/The-Epistle-of-Ignatius-to-the-Magnesians",
-      "target": "/1Tim",
-      "text": "who is our hope"
-    },
-    {
-      "source": "/notes/The-Epistle-of-Ignatius-to-the-Magnesians",
-      "target": "/../Scripture/Proverbs/Prov-18",
-      "text": "The righteous man is his own accuser"
-    },
-    {
-      "source": "/notes/The-Epistle-of-Ignatius-to-the-Magnesians",
-      "target": "/Polycarp-of-Smyrna",
-      "text": "Polycarp"
     }
   ]
 }
