@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/_index.md",
+            "file": "content/Ignatius Of Antioch/Ignatius Of Antioch.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Ignatius Of Antioch/Ignatius Of Antioch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Ignatius Of Antioch/Ignatius Of Antioch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/Ignatius Of Antioch/Ignatius Of Antioch.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c15babcef8a7bf8c",
+  "active": "d93ffda884151d8c",
   "lastOpenFiles": [
-    "content/Old Testament.md",
     "content/_index.md",
+    "content/Ignatius Of Antioch/Ignatius Of Antioch.md",
+    "content/Old Testament.md",
     "content/Scripture/Genesis/Genesis.md",
     "content/Scripture/Jeremiah/Jeremiah.md",
     "content/Scripture/Jeremiah/Jer-52.md",
     "content/Scripture/Jeremiah/Jer-51.md",
     "content/Scripture/Jeremiah/Jer-50.md",
     "content/Scripture/Jeremiah/Jer-49.md",
-    "content/Scripture/Jeremiah/Jer-48.md",
-    "content/Scripture/Jeremiah/Jer-47.md"
+    "content/Scripture/Jeremiah/Jer-48.md"
   ]
 }
