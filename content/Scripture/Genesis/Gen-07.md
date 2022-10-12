@@ -1,3 +1,7 @@
+---
+title: "Gen-07"
+enableToc: false
+---
 # Genesis 7
 
 [[Gen-06|← Genesis 06]] | [[Genesis]] | [[Gen-08|Genesis 08 →]]

@@ -1,3 +1,7 @@
+---
+title: "Gen-10"
+enableToc: false
+---
 # Genesis 10
 
 [[Gen-09|← Genesis 09]] | [[Genesis]] | [[Gen-11|Genesis 11 →]]

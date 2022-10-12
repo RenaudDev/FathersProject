@@ -1,3 +1,7 @@
+---
+title: "Gen-16"
+enableToc: false
+---
 # Genesis 16
 
 [[Gen-15|← Genesis 15]] | [[Genesis]] | [[Gen-17|Genesis 17 →]]

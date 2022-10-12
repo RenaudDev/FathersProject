@@ -4,7 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "153cef76f79d2d0d",
+        "id": "592221f561a68aed",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/_index.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3586fea51adbabde",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -128,17 +140,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "153cef76f79d2d0d",
+  "active": "592221f561a68aed",
   "lastOpenFiles": [
-    "content/Scripture/2Samuel/2Samuel.md",
-    "content/Scripture/2Samuel/2Sam-24.md",
-    "content/Scripture/2Samuel/2Sam-23.md",
-    "content/Scripture/2Samuel/2Sam-22.md",
-    "content/Scripture/2Samuel/2Sam-21.md",
-    "content/Scripture/2Samuel/2Sam-20.md",
-    "content/Scripture/2Samuel/2Sam-19.md",
-    "content/Scripture/2Samuel/2Sam-18.md",
-    "content/Scripture/2Samuel/2Sam-17.md",
-    "content/Scripture/2Samuel/2Sam-16.md"
+    "content/Scripture/Psalm/Psalm.md",
+    "content/Scripture/Psalm/Ps-150.md",
+    "content/Scripture/Psalm/Ps-149.md",
+    "content/Scripture/Psalm/Ps-148.md",
+    "content/Scripture/Psalm/Ps-147.md",
+    "content/Scripture/Psalm/Ps-146.md",
+    "content/Scripture/Psalm/Ps-145.md",
+    "content/Scripture/Psalm/Ps-144.md",
+    "content/Scripture/Psalm/Ps-143.md",
+    "content/Scripture/Psalm/Ps-142.md"
   ]
 }

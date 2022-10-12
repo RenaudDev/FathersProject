@@ -1,3 +1,7 @@
+---
+title: "Gen-27"
+enableToc: false
+---
 # Genesis 27
 
 [[Gen-26|← Genesis 26]] | [[Genesis]] | [[Gen-28|Genesis 28 →]]

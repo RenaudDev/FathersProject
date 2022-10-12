@@ -1,3 +1,7 @@
+---
+title: "Gen-48"
+enableToc: false
+---
 # Genesis 48
 
 [[Gen-47|← Genesis 47]] | [[Genesis]] | [[Gen-49|Genesis 49 →]]

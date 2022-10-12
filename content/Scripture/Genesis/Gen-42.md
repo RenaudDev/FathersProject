@@ -1,3 +1,7 @@
+---
+title: "Gen-42"
+enableToc: false
+---
 # Genesis 42
 
 [[Gen-41|← Genesis 41]] | [[Genesis]] | [[Gen-43|Genesis 43 →]]

@@ -1,3 +1,7 @@
+---
+title: "Gen-37"
+enableToc: false
+---
 # Genesis 37
 
 [[Gen-36|← Genesis 36]] | [[Genesis]] | [[Gen-38|Genesis 38 →]]

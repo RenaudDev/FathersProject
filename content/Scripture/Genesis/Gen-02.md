@@ -1,3 +1,7 @@
+---
+title: "Gen-02"
+enableToc: false
+---
 # Genesis 2
 
 [[Gen-01|← Genesis 01]] | [[Genesis]] | [[Gen-03|Genesis 03 →]]

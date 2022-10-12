@@ -1,3 +1,7 @@
+---
+title: "Gen-23"
+enableToc: false
+---
 # Genesis 23
 
 [[Gen-22|← Genesis 22]] | [[Genesis]] | [[Gen-24|Genesis 24 →]]

@@ -1,3 +1,7 @@
+---
+title: "Gen-19"
+enableToc: false
+---
 # Genesis 19
 
 [[Gen-18|← Genesis 18]] | [[Genesis]] | [[Gen-20|Genesis 20 →]]
