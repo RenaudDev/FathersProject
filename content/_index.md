@@ -9,4 +9,3 @@ enableToc: false
 
 ## Scriptures
 - [[Old Testament]]
-- [[Old Testament]]
