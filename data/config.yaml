@@ -1,7 +1,7 @@
 name: Renaud Gagne
 enableToc: true
-openToc: false
-enableLinkPreview: true
+openToc: true
+enableLinkPreview: false
 enableLatex: true
 enableCodeBlockTitle: true
 enableCodeBlockCopy: true
