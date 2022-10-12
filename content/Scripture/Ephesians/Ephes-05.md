@@ -1,3 +1,7 @@
+---
+title: "Ephes-05"
+enableToc: false
+---
 # Ephesians 5
 
 [[Ephes-04|← Ephesians 04]] | [[Ephesians]] | [[Ephes-06|Ephesians 06 →]]

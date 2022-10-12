@@ -9,6 +9,7 @@ enableToc: false
 - 
 
 ## Scriptures
+### Old Testament
 - [[Scripture/Genesis/Genesis]]
 - [[Scripture/Exodus/Exodus]]
 - [[Scripture/Leviticus/Leviticus]]
@@ -28,3 +29,10 @@ enableToc: false
 - [[Scripture/Esther/Esther]]
 - [[Scripture/Job/Job]]
 - [[Scripture/Psalm/Psalm]]
+- [[Scripture/Proverbs/Proverbs]]
+- [[Scripture/Ecclesiastes/Ecclesiastes]]
+- [[Scripture/Song of Solomon/Song of Solomon]]
+- [[Scripture/Isaiah/Isaiah]]
+- [[Scripture/Jeremiah/Jeremiah]]
+
+### New Testament

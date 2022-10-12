@@ -4,19 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "592221f561a68aed",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "content/_index.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "3586fea51adbabde",
+        "id": "d93ffda884151d8c",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -140,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "592221f561a68aed",
+  "active": "d93ffda884151d8c",
   "lastOpenFiles": [
-    "content/Scripture/Psalm/Psalm.md",
-    "content/Scripture/Psalm/Ps-150.md",
-    "content/Scripture/Psalm/Ps-149.md",
-    "content/Scripture/Psalm/Ps-148.md",
-    "content/Scripture/Psalm/Ps-147.md",
-    "content/Scripture/Psalm/Ps-146.md",
-    "content/Scripture/Psalm/Ps-145.md",
-    "content/Scripture/Psalm/Ps-144.md",
-    "content/Scripture/Psalm/Ps-143.md",
-    "content/Scripture/Psalm/Ps-142.md"
+    "content/Scripture/Jeremiah/Jeremiah.md",
+    "content/Scripture/Jeremiah/Jer-52.md",
+    "content/Scripture/Jeremiah/Jer-51.md",
+    "content/Scripture/Jeremiah/Jer-50.md",
+    "content/Scripture/Jeremiah/Jer-49.md",
+    "content/Scripture/Jeremiah/Jer-48.md",
+    "content/Scripture/Jeremiah/Jer-47.md",
+    "content/Scripture/Jeremiah/Jer-46.md",
+    "content/Scripture/Jeremiah/Jer-45.md",
+    "content/Scripture/Jeremiah/Jer-44.md"
   ]
 }

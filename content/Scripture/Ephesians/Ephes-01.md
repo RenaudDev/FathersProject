@@ -1,3 +1,7 @@
+---
+title: "Ephes-01"
+enableToc: false
+---
 # Ephesians 1
 
 [[Ephesians]] | [[Ephes-02|Ephesians 02 →]]
