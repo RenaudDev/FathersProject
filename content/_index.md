@@ -5,5 +5,5 @@ enableToc: false
 
 # Welcome To The Fathers Project
 
-- [[Church Fathers/Ignatius of Antioch/Ignatius of Antioch]]
-- [[Polycarp]]
+- [[Ignatius Of Antioch/_index|Ignatius Of Antioch]]
+- 
