@@ -1,6 +1,6 @@
 {
   "newLinkFormat": "relative",
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": false,
+  "useMarkdownLinks": true,
   "promptDelete": false
 }
