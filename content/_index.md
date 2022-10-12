@@ -1,5 +1,5 @@
 ---
-title: 🪴 The Fathers Project
+title: ✟ The Fathers Project
 enableToc: false
 ---
 
