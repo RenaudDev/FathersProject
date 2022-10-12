@@ -1,4 +1,4 @@
-baseURL = "https://renauddev.github.io/FathersProject/"
+baseURL = "https://renauddev.github.io/"
 languageCode = "en-us"
 #googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = true
