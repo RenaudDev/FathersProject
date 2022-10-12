@@ -1,7 +1,7 @@
 {
-  "newLinkFormat": "relative",
+  "newLinkFormat": "absolute",
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": false,
+  "useMarkdownLinks": true,
   "promptDelete": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "content/notes"

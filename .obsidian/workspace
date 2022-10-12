@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/_index.md",
+            "file": "content/notes/Ignatius Of Antioch.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Ignatius Of Antioch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Ignatius Of Antioch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/Ignatius Of Antioch.md"
               }
             }
           }
@@ -142,8 +142,8 @@
   },
   "active": "1f11c882d1463ec8",
   "lastOpenFiles": [
-    "content/Scripture/2Kings/2Kings-02.md",
     "content/_index.md",
+    "content/Scripture/2Kings/2Kings-02.md",
     "content/Scripture/2Kings/2Kings-01.md",
     "content/Scripture/2Kings/2Kings.md",
     "content/notes/Ignatius Of Antioch.md",
