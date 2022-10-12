@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/notes/Ignatius Of Antioch.md",
+            "file": "content/_index.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Ignatius Of Antioch.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/Ignatius Of Antioch.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Ignatius Of Antioch.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -130,9 +130,9 @@
   },
   "active": "1f11c882d1463ec8",
   "lastOpenFiles": [
+    "content/notes/Ignatius Of Antioch.md",
     "content/_index.md",
     "content/notes/The Epistle of Ignatius to the Magnesians.md",
-    "content/notes/Ignatius Of Antioch.md",
     "content/notes/Old Testament.md",
     "content/notes/updating.md",
     "content/notes/troubleshooting.md",
