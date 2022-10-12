@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Ignatius Of Antioch/Ignatius Of Antioch.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Ignatius Of Antioch/Ignatius Of Antioch.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Ignatius Of Antioch/Ignatius Of Antioch.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -140,10 +140,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1f11c882d1463ec8",
+  "active": "d93ffda884151d8c",
   "lastOpenFiles": [
-    "content/_index.md",
     "content/Ignatius Of Antioch/Ignatius Of Antioch.md",
+    "content/_index.md",
     "content/Old Testament.md",
     "content/Scripture/Genesis/Genesis.md",
     "content/Scripture/Jeremiah/Jeremiah.md",
