@@ -70,7 +70,7 @@ description:
 
 # title of the home page (also for SEO)
 page_title:
-  "🪴 Quartz 3.3"
+  "The Father's Project"
 
 # links to show in the footer
 links:
