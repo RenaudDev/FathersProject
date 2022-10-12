@@ -5,5 +5,5 @@ enableToc: false
 
 # Welcome To The Fathers Project
 
-- [[Ignatius Of Antioch/_index|Ignatius Of Antioch]]
-- [[content/Ignatius Of Antioch/_index|Ignatius Of Antioch]]
+- [[Ignatius Of Antioch/_index]] 
+- [[content/Ignatius Of Antioch/_index]]
