@@ -130,15 +130,15 @@
   },
   "active": "1f11c882d1463ec8",
   "lastOpenFiles": [
-    "content/Old Testament.md",
-    "content/_index.md",
-    "content/Ignatius Of Antioch/The Epistle of Ignatius of Antioch to the Ephesians.md",
-    "content/Ignatius Of Antioch/Ignatius Of Antioch.md",
-    "content/Scripture/Genesis/Genesis.md",
-    "content/Scripture/Jeremiah/Jeremiah.md",
-    "content/Scripture/Jeremiah/Jer-52.md",
-    "content/Scripture/Jeremiah/Jer-51.md",
-    "content/Scripture/Jeremiah/Jer-50.md",
-    "content/Scripture/Jeremiah/Jer-49.md"
+    "content/notes/updating.md",
+    "content/notes/troubleshooting.md",
+    "content/notes/showcase.md",
+    "content/notes/setup.md",
+    "content/notes/search.md",
+    "content/notes/preview changes.md",
+    "content/notes/philosophy.md",
+    "content/notes/obsidian.md",
+    "content/notes/hosting.md",
+    "content/notes/custom Domain.md"
   ]
 }
