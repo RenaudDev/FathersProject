@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Renaud Gagne
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -11,14 +11,13 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/RenaudDev/FathersProject/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  The Father's Project is an open source library to increase access and interest in the church father's through the ages.
 page_title:
-  "🪴 Quartz 3.3"
+  "The Father's Project ✟"
 links:
   - link_name: Twitter
     link: https://twitter.com/_jzhao
