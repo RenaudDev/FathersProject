@@ -6,6 +6,7 @@ enableGlobalGraph: false
 ### Local Graph ###
 
 localGraph:
+    baseURL: https://renauddev.github.io/FathersProject/
     enableLegend: false
     enableDrag: true
     enableZoom: true

@@ -4,7 +4,5 @@ enableToc: false
 ---
 
 ## Church Fathers Chronologically
-- [Ignatius Of Antioch](content/notes/Ignatius%20Of%20Antioch.md)
-
-
-
+- [Ignatius Of Antioch](notes/Ignatius%20Of%20Antioch.md)
+- 
