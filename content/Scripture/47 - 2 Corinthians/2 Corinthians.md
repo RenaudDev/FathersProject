@@ -1,4 +1,4 @@
 links: [[The Bible (WEB)]]
 # 2 Corinthians
 
-[[2 Cor-01|Start Reading →]]
+[[2Cor-01|Start Reading →]]
