@@ -7,4 +7,5 @@ enableToc: false
 - [[content/notes/Ignatius Of Antioch]]
 
 ## Scriptures
-- [[content/notes/Old Testament]]
+- [Ignatius Of Antioch](content/notes/Ignatius%20Of%20Antioch.md)
+- 
