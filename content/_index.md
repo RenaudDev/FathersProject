@@ -2,5 +2,5 @@
 title: Home
 enableToc: false
 ---
-- [Ignatius of Antioch](ignatius.md)
-- 
+[[church fathers/Ignatius]]
+[St Ignatius of Antioch](church fathers/Ignatius.md)
