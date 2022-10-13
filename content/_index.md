@@ -5,9 +5,8 @@ enableToc: false
 
 # The Writings Of The Apostolic Fathers 
 - Clement of Rome (35 AD – 99 AD)
-- [[church fathers/Ignatius Of Antioch/index|Ignatius Of Antioch]] (AD 35 - 108)
-- [[church fathers/Polycarp Of Smyrna/index|Polycarp Of Smyrna]] (AD 69 – 155)
-
+- [Ignatius Of Antioch](apostolic%20fathers/Ignatius%20Of%20Antioch/index) (AD 35 - 108)
+- [Polycarp Of Smyrna](apostolic%20fathers/Polycarp%20Of%20Smyrna/index) (AD 69 – 155)
 
 
 
