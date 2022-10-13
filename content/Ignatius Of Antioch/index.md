@@ -10,11 +10,9 @@ liferange: AD 35 - 108
 {{< youtube wdeizCtkxZo >}}
 
 ## Writings
-- [[apostolic fathers/Ignatius Of Antioch/The Epistle of Ignatius to the Trallians]]
-- [The Epistle of Ignatius of Antioch to the Ephesians](apostolic%20fathers/Ignatius%20Of%20Antioch/The%20Epistle%20of%20Ignatius%20of%20Antioch%20to%20the%20Ephesians.md)
-- [The Epistle of Ignatius to the Magnesians](apostolic%20fathers/Ignatius%20Of%20Antioch/The%20Epistle%20of%20Ignatius%20to%20the%20Magnesians.md)
-- [The Epistle of Ignatius to the Trallians](The%20Epistle%20of%20Ignatius%20to%20the%20Trallians.md)
-- 
+- [The Epistle of Ignatius of Antioch to the Ephesians](/Ignatius%20Of%20Antioch/The%20Epistle%20of%20Ignatius%20of%20Antioch%20to%20the%20Ephesians.md)
+- [The Epistle of Ignatius to the Magnesians](/Ignatius%20Of%20Antioch/The%20Epistle%20of%20Ignatius%20to%20the%20Magnesians.md)
+- [The Epistle of Ignatius of Antioch to the Ephesians](/Ignatius%20Of%20Antioch/The%20Epistle%20of%20Ignatius%20of%20Antioch%20to%20the%20Ephesians.md)
 
 ## Sources
 [Ignatius of Antioch - Wikipedia](https://en.wikipedia.org/wiki/Ignatius_of_Antioch)
