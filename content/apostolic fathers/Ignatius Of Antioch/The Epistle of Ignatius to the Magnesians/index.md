@@ -1,6 +1,5 @@
 ---
 title: "The Epistle of Ignatius to the Magnesians"
-tag: letter
 date: "107 AD"
 ---
 

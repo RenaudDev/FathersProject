@@ -1,7 +1,6 @@
 ---
 title: "St. Polycarp of Smyrna"
 enableToc: false
-tags: apostolic-fathers
 liferange: AD 69 – 155
 ---
 # Who is St. Polycarp of Smyrna?
