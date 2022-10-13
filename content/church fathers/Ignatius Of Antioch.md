@@ -11,3 +11,4 @@ enableToc: false
 
 ## St. Ignatius of Antioch Epistles
 - [[letters/The Epistle of Ignatius of Antioch to the Ephesians]]
+- [[letters/The Epistle of Ignatius to the Magnesians]]
