@@ -4,7 +4,7 @@ tag: letter
 date: "107 AD"
 ---
 
-## Audio
+## Listen to the Audio Version
 {{< audio src="ignatius2.mp3" >}}
 
 ## Greeting
