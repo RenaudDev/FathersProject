@@ -12,8 +12,8 @@ liferange: AD 35 - 108
 {{< youtube wdeizCtkxZo >}}
 
 ## St. Ignatius of Antioch Epistles
-- [[content/church fathers/Ignatius Of Antioch/letters/The Epistle of Ignatius of Antioch to the Ephesians]]
-- [[church fathers/Ignatius Of Antioch/letters/The Epistle of Ignatius of Antioch to the Ephesians]]
-
+- [[church fathers/Ignatius Of Antioch/The Epistle of Ignatius of Antioch to the Ephesians]]
+- [[church fathers/Ignatius Of Antioch/The Epistle of Ignatius to the Magnesians]]
+- [[church fathers/Ignatius Of Antioch/The Epistle of Ignatius to the Trallians]]
 ## Sources
 [Ignatius of Antioch - Wikipedia](https://en.wikipedia.org/wiki/Ignatius_of_Antioch)
