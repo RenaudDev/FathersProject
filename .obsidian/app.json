@@ -1,7 +1,7 @@
 {
   "newLinkFormat": "absolute",
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": false,
+  "useMarkdownLinks": true,
   "promptDelete": false,
   "newFileLocation": "current",
   "newFileFolderPath": "content/church fathers",
