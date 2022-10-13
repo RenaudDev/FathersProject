@@ -3,5 +3,6 @@ title: Home
 enableToc: false
 ---
 
-# Early Christian Writings
-- [[notes/St. Ignatius Of Antioch.md|St. Ignatius Of Antioch]]
+- [A link here](notes/polycarp.md)
+- [Another](notes/ignatius.md)
+

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1f11c882d1463ec8",
+        "id": "5c0960b128ad4bd9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/notes/St. Ignatius Of Antioch.md",
+            "file": "content/_index.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/St. Ignatius Of Antioch.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/St. Ignatius Of Antioch.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/St. Ignatius Of Antioch.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -128,17 +128,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1f11c882d1463ec8",
+  "active": "5c0960b128ad4bd9",
   "lastOpenFiles": [
-    "content/notes/The Epistle of Ignatius to the Magnesians.md",
-    "content/notes/The Epistle of Ignatius of Antioch to the Ephesians.md",
-    "content/notes/attachments/Epistle of Ignatius to the Ephesians.mp3",
-    "content/notes/St. Ignatius Of Antioch.md",
+    "content/notes/Ignatius.md",
     "content/_index.md",
-    "content/notes/attachments/github-actions.png",
-    "content/notes/attachments/github-pages.png",
-    "content/Scripture/1Corinthians/1Cor-16.md",
-    "content/Scripture/2Kings/2Kings-02.md",
-    "content/Scripture/2Kings/2Kings-01.md"
+    "content/notes/The Epistle of Ignatius to the Magnesians.md",
+    "content/notes/Old Testament.md",
+    "content/notes/Clement of Rome.md",
+    "content/notes/Clement of Rome.md",
+    "content/notes/The Epistle of Ignatius of Antioch to the Ephesians.md",
+    "content/notes/Polycarp.md",
+    "content/notes/attachments/Epistle of Ignatius to the Ephesians.mp3"
   ]
 }
