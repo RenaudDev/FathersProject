@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/notes/Ignatius.md",
+            "file": "content/_index.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Ignatius.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/Ignatius.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Ignatius.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "5c0960b128ad4bd9",
   "lastOpenFiles": [
-    "content/notes/Old Testament.md",
-    "content/Scripture/Genesis/Genesis.md",
-    "content/notes/Ignatius.md",
+    "content/Ignatius.md",
     "content/_index.md",
-    "content/notes/Polycarp.md",
-    "content/notes/The Epistle of Ignatius to the Magnesians.md",
+    "static/The Epistle of Ignatius to the Magnesians.md",
+    "static/Ignatius.md",
+    "static/Old Testament.md",
+    "content/Scripture/Genesis/Genesis.md",
+    "static/Polycarp.md",
+    "static/Clement of Rome.md",
     "content/notes/Clement of Rome.md",
-    "content/notes/Clement of Rome.md",
-    "content/notes/The Epistle of Ignatius of Antioch to the Ephesians.md",
-    "content/notes/attachments/Epistle of Ignatius to the Ephesians.mp3"
+    "static/The Epistle of Ignatius of Antioch to the Ephesians.md"
   ]
 }

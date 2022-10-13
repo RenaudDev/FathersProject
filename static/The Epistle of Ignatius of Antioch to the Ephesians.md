@@ -4,7 +4,7 @@ author: "St. Ignatius Of Antioch"
 tag: letter
 when: "107 AD"
 ---
-Letter written by [[content/notes/Ignatius]]
+Letter written by [[static/Ignatius]]
 
 ## Audio
 {{< audio src="ignatius1.mp3" >}}
