@@ -1,10 +1,9 @@
 ---
 title: "The Epistle of Ignatius of Antioch to the Ephesians"
-enableToc: false
+enableToc: true
 ---
-Letter written by [[static/Ignatius]]
 
-## Audio
+## Listen to the Audio Version
 {{< audio src="ignatius1.mp3" >}}
 
 ## Greeting
