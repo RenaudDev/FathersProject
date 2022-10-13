@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/church fathers/Ignatius Of Antioch.md",
+            "file": "content/_index.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/church fathers/Ignatius Of Antioch.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/church fathers/Ignatius Of Antioch.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/church fathers/Ignatius Of Antioch.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -130,9 +130,9 @@
   },
   "active": "5c0960b128ad4bd9",
   "lastOpenFiles": [
+    "content/church fathers/Ignatius Of Antioch.md",
     "content/letters/The Epistle of Ignatius of Antioch to the Ephesians.md",
     "static/The Epistle of Ignatius of Antioch to the Ephesians.md",
-    "content/church fathers/Ignatius Of Antioch.md",
     "content/_index.md",
     "static/Ignatius.md",
     "content/Ignatius.md",
