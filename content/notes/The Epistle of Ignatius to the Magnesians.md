@@ -3,6 +3,10 @@ title: "The Epistle of Ignatius to the Magnesians"
 tag: letter
 date: "107 AD"
 ---
+
+## Audio
+{{< audio src="ignatius2.mp3" >}}
+
 ## Greeting
 Ignatius, who is also called Theophorus, to the Church blessed in the grace of God the Father, in Jesus Christ our Saviour, in whom I salute the Church which is at Magnesia, near the Mæander, and wish it abundance of happiness in God the Father, and in Jesus Christ.
 

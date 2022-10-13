@@ -6,6 +6,9 @@ when: "107 AD"
 ---
 Letter written by [[St. Ignatius Of Antioch]]
 
+## Audio
+{{< audio src="ignatius1.mp3" >}}
+
 ## Greeting
 
 Ignatius, who is also called Theophorus, to the Church which is at Ephesus, in Asia, deservedly most happy, being blessed in the greatness and fullness of God the Father, and predestinated before the ages of time, that it should be always for an enduring and unchangeable glory, being united and elected through the true passion by the will of the Father, and Jesus Christ, our God: Abundant happiness through Jesus Christ, and His undefiled grace.
