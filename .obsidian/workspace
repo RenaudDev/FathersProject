@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/_index.md",
+            "file": "content/church fathers/Ignatius Of Antioch.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/church fathers/Ignatius Of Antioch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/church fathers/Ignatius Of Antioch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/church fathers/Ignatius Of Antioch.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "5c0960b128ad4bd9",
   "lastOpenFiles": [
-    "content/Ignatius.md",
+    "content/letters/The Epistle of Ignatius of Antioch to the Ephesians.md",
+    "static/The Epistle of Ignatius of Antioch to the Ephesians.md",
+    "content/church fathers/Ignatius Of Antioch.md",
     "content/_index.md",
-    "static/The Epistle of Ignatius to the Magnesians.md",
     "static/Ignatius.md",
+    "content/Ignatius.md",
+    "static/The Epistle of Ignatius to the Magnesians.md",
     "static/Old Testament.md",
     "content/Scripture/Genesis/Genesis.md",
-    "static/Polycarp.md",
-    "static/Clement of Rome.md",
-    "content/notes/Clement of Rome.md",
-    "static/The Epistle of Ignatius of Antioch to the Ephesians.md"
+    "static/Polycarp.md"
   ]
 }
