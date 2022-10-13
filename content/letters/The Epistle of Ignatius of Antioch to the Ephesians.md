@@ -91,7 +91,7 @@ If Jesus Christ shall graciously permit me through your prayers, and if it be Hi
 
 ## Chapter 21. Conclusion
 
-My soul be for yours and theirs whom, for the honour of God, you have sent to Smyrna; whence also I write to you, giving thanks unto the Lord, and loving Polycarp even as I do you. Remember me, as Jesus Christ also remembered you. Pray for the Church which is in Syria, whence I am led bound to Rome, being the last of the faithful who are there, even as I have been thought worthy to be chosen to show forth the honour of God. Farewell in God the Father, and in Jesus Christ, our common hope.
+My soul be for yours and theirs whom, for the honour of God, you have sent to Smyrna; whence also I write to you, giving thanks unto the Lord, and loving [Polycarp](church fathers/Polycarp of Smyrna) even as I do you. Remember me, as Jesus Christ also remembered you. Pray for the Church which is in Syria, whence I am led bound to Rome, being the last of the faithful who are there, even as I have been thought worthy to be chosen to show forth the honour of God. Farewell in God the Father, and in Jesus Christ, our common hope.
 
 ## Sources
 
