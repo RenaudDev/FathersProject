@@ -7,12 +7,8 @@
         "id": "4d04751e979ff198",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "content/church fathers/Ignatius Of Antioch/index.md.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/church fathers/Ignatius Of Antioch/index.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/church fathers/Ignatius Of Antioch/index.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/church fathers/Ignatius Of Antioch/index.md.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -130,14 +122,15 @@
   },
   "active": "4d04751e979ff198",
   "lastOpenFiles": [
-    "content/church fathers/Ignatius Of Antioch/The Epistle of Ignatius of Antioch to the Ephesians.md",
-    "content/church fathers/Ignatius Of Antioch/index.md.md",
-    "content/church fathers/Ignatius Of Antioch/attachment/ignatius1.mp3",
-    "content/church fathers/Ignatius Of Antioch/The Epistle of Ignatius to the Magnesians.md",
-    "content/_index.md",
+    "content/church fathers/Ignatius Of Antioch/letters/_index.md.md",
     "content/church fathers/_index.md.md",
+    "content/church fathers/Ignatius Of Antioch/index.md.md",
+    "content/church fathers/Ignatius Of Antioch/Untitled.md",
+    "content/church fathers/Ignatius Of Antioch/letters/The Epistle of Ignatius of Antioch to the Ephesians.md",
+    "content/church fathers/Ignatius Of Antioch/letters/attachment/ignatius1.mp3",
+    "content/church fathers/Ignatius Of Antioch/letters/The Epistle of Ignatius to the Magnesians.md",
+    "content/_index.md",
     "church fathers/Ignatius Of Antioch/index.md",
-    "content/church fathers/Ignatius Of Antioch/The Epistle of Ignatius to the Trallians.md",
-    "content/letters/The Martyrdom of Polycarp.md"
+    "content/church fathers/Ignatius Of Antioch/letters/The Epistle of Ignatius to the Trallians.md"
   ]
 }
