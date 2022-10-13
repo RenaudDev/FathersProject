@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/letters/The Epistle of Ignatius to the Trallians.md",
+            "file": "content/church fathers/Ignatius Of Antioch/The Epistle of Ignatius to the Trallians.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "polycarp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/letters/The Epistle of Ignatius to the Trallians.md",
+                "file": "content/church fathers/Ignatius Of Antioch/The Epistle of Ignatius to the Trallians.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/letters/The Epistle of Ignatius to the Trallians.md",
+                "file": "content/church fathers/Ignatius Of Antioch/The Epistle of Ignatius to the Trallians.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/letters/The Epistle of Ignatius to the Trallians.md"
+                "file": "content/church fathers/Ignatius Of Antioch/The Epistle of Ignatius to the Trallians.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "4d04751e979ff198",
   "lastOpenFiles": [
-    "content/letters/The Epistle of Ignatius to the Magnesians.md",
-    "content/letters/The Epistle of Ignatius to the Trallians.md",
-    "content/letters/The Epistle of Ignatius of Antioch to the Ephesians.md",
-    "static/ignatius3.mp3",
-    "content/church fathers/Ignatius Of Antioch.md",
+    "content/church fathers/Ignatius Of Antioch/The Epistle of Ignatius to the Magnesians.md",
+    "content/church fathers/Ignatius Of Antioch/index.md.md",
+    "content/church fathers/Polycarp Of Smyrna/index.md.md",
+    "content/church fathers/_index.md.md",
+    "content/church fathers/Ignatius Of Antioch/The Epistle of Ignatius to the Trallians.md",
+    "content/church fathers/Ignatius Of Antioch/The Epistle of Ignatius of Antioch to the Ephesians.md",
     "content/_index.md",
-    "content/church fathers/Polycarp of Smyrna.md",
-    "content/church fathers/church.md",
-    "content/church fathers/1Tim-01.md",
-    "static/Clement of Rome.md"
+    "content/church fathers/Ignatius Of Antioch/Untitled.md",
+    "static/ignatius1.mp3",
+    "content/church fathers/Ignatius/index.md.md"
   ]
 }

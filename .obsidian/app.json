@@ -3,7 +3,7 @@
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": false,
   "promptDelete": false,
-  "newFileLocation": "folder",
+  "newFileLocation": "current",
   "newFileFolderPath": "content/church fathers",
   "showFrontmatter": true
 }

@@ -4,8 +4,9 @@ enableToc: true
 ---
 
 ## Listen to the Audio Version
-{{< audio src="ignatius1.mp3" >}}
 
+
+{{< audio src="attachment/ignatius1.mp3" >}}
 ## Greeting
 Ignatius, who is also called Theophorus, to the Church which is at Ephesus, in Asia, deservedly most happy, being blessed in the greatness and fullness of God the Father, and predestinated before the ages of time, that it should be always for an enduring and unchangeable glory, being united and elected through the true passion by the will of the Father, and Jesus Christ, our God: Abundant happiness through Jesus Christ, and His undefiled grace.
 
@@ -43,7 +44,7 @@ Let not then any one deceive you, as indeed you are not deceived, inasmuch as yo
 
 ## Chapter 9. You have given no heed to false teachers
 
-Nevertheless, I have heard of some who have passed on from this to you, having false doctrine, whom you did not allow to sow among you, but stopped your ears, that you might not receive those things which were sown by them, [as being stones of the temple of the Father, prepared for the building of God the Father](https://www.biblegateway.com/passage/?search=1+Peter+2%3A5&version=NKJV), and drawn up on high by the instrument of Jesus Christ, which is the cross,  [making use of the Holy Spirit as a rope, while your faith was the means by which you ascended, and your love the way which led up to God](https://www.biblegateway.com/passage/?search=John+12%3A32&version=NKJV). You, therefore, as well as all your fellow-travellers, are God-bearers, temple-bearers, Christ-bearers, bearers of holiness, adorned in all respects with the commandments of Jesus Christ, in whom also I exult that I have been thought worthy, by means of this Epistle, to converse and rejoice with you, because with respect to your Christian life you love nothing but God only.
+Nevertheless, I have heard of some who have passed on from this to you, having false doctrine, whom you did not allow to sow among you, but stopped your ears, that you might not receive those things which were sown by them, [as being stones of the temple of the Father, prepared for the building of God the Father](https://www.biblegateway.com/passage/?search=1+Peter+2%3A5&version=NKJV), and drawn up on high by the instrument of Jesus Christ, which is the cross, [making use of the Holy Spirit as a rope, while your faith was the means by which you ascended, and your love the way which led up to God](https://www.biblegateway.com/passage/?search=John+12%3A32&version=NKJV). You, therefore, as well as all your fellow-travellers, are God-bearers, temple-bearers, Christ-bearers, bearers of holiness, adorned in all respects with the commandments of Jesus Christ, in whom also I exult that I have been thought worthy, by means of this Epistle, to converse and rejoice with you, because with respect to your Christian life you love nothing but God only.
 
 ## Chapter 10. Exhortations to prayer, humility, etc
 
@@ -79,7 +80,7 @@ It is better for a man to be silent and be a Christian, than to talk and not to 
 
 ## Chapter 18. The glory of the cross
 
-[Let my spirit be counted as nothing for the sake of the cross, which is a stumbling-block to those that do not believe, but to us salvation and life eternal.](content/Scripture/1Corinthians/1Cor-01.md#v18) [Where is the wise man? Where the disputer? Where is the boasting of those who are styled prudent?](https://www.biblegateway.com/passage/?search=1+Cor+1%3A20&version=NKJV) For our God, Jesus Christ, was, according to the appointment of God, conceived in the womb by Mary, of the seed of David, but by the Holy Ghost. He was born and baptized, that by His passion He might purify the water.
+[Let my spirit be counted as nothing for the sake of the cross, which is a stumbling-block to those that do not believe, but to us salvation and life eternal. Where is the wise man? Where the disputer? Where is the boasting of those who are styled prudent?](https://www.biblegateway.com/passage/?search=1+Cor+1%3A20&version=NKJV) For our God, Jesus Christ, was, according to the appointment of God, conceived in the womb by Mary, of the seed of David, but by the Holy Ghost. He was born and baptized, that by His passion He might purify the water.
 
 ## Chapter 19. Three celebrated mysteries
 
@@ -91,7 +92,7 @@ If Jesus Christ shall graciously permit me through your prayers, and if it be Hi
 
 ## Chapter 21. Conclusion
 
-My soul be for yours and theirs whom, for the honour of God, you have sent to Smyrna; whence also I write to you, giving thanks unto the Lord, and loving [Polycarp](church fathers/Polycarp of Smyrna) even as I do you. Remember me, as Jesus Christ also remembered you. Pray for the Church which is in Syria, whence I am led bound to Rome, being the last of the faithful who are there, even as I have been thought worthy to be chosen to show forth the honour of God. Farewell in God the Father, and in Jesus Christ, our common hope.
+My soul be for yours and theirs whom, for the honour of God, you have sent to Smyrna; whence also I write to you, giving thanks unto the Lord, and loving [[content/church fathers/Polycarp Of Smyrna/index.md|Polycarp]] even as I do you. Remember me, as Jesus Christ also remembered you. Pray for the Church which is in Syria, whence I am led bound to Rome, being the last of the faithful who are there, even as I have been thought worthy to be chosen to show forth the honour of God. Farewell in God the Father, and in Jesus Christ, our common hope.
 
 ## Sources
 
