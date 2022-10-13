@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/notes/Ignatius Of Antioch/_index.md",
+            "file": "content/notes/The Epistle of Ignatius of Antioch to the Ephesians.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Ignatius Of Antioch/_index.md",
+                "file": "content/notes/The Epistle of Ignatius of Antioch to the Ephesians.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/Ignatius Of Antioch/_index.md",
+                "file": "content/notes/The Epistle of Ignatius of Antioch to the Ephesians.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Ignatius Of Antioch/_index.md"
+                "file": "content/notes/The Epistle of Ignatius of Antioch to the Ephesians.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "1f11c882d1463ec8",
   "lastOpenFiles": [
+    "content/notes/St. Ignatius Of Antioch.md",
     "content/_index.md",
-    "content/notes/Ignatius Of Antioch/_index.md",
-    "content/notes/Ignatius Of Antioch/The Epistle of Ignatius to the Magnesians.md",
-    "content/notes/Ignatius Of Antioch/The Epistle of Ignatius of Antioch to the Ephesians.md",
+    "content/notes/attachments/github-actions.png",
+    "content/notes/attachments/github-pages.png",
+    "content/notes/The Epistle of Ignatius to the Magnesians.md",
+    "content/notes/The Epistle of Ignatius of Antioch to the Ephesians.md",
     "content/Scripture/1Corinthians/1Cor-16.md",
     "content/Scripture/2Kings/2Kings-02.md",
     "content/Scripture/2Kings/2Kings-01.md",
-    "content/Scripture/2Kings/2Kings.md",
-    "content/notes/notes/Ignatius_Of_Antioch.md",
-    "content/notes/notes/Ignatius.md"
+    "content/Scripture/2Kings/2Kings.md"
   ]
 }

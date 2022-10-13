@@ -4,4 +4,4 @@ enableToc: false
 ---
 
 # Early Christian Writings
-- [[notes/Ignatius Of Antioch/_index]]
+- [[notes/St. Ignatius Of Antioch.md|St. Ignatius Of Antioch]]

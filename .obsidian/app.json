@@ -4,5 +4,6 @@
   "useMarkdownLinks": false,
   "promptDelete": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "content/notes"
+  "newFileFolderPath": "content/notes",
+  "showFrontmatter": true
 }

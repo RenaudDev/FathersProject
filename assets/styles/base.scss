@@ -21,7 +21,7 @@ html {
 }
 
 .singlePage {
-  padding: 4em 30vw;
+  padding: 4em 27vw;
   @media all and (max-width: 1200px) {
     padding: 25px 5vw;
   }
@@ -41,12 +41,21 @@ h1, h2, h3, h4, h5, h6, thead {
   font-family: var(--font-header);
   color: var(--dark);
   font-weight: revert;
-  margin: 2rem 0 0;
+  margin: 1rem 0 0;
   padding: 2rem auto 1rem;
 
   &:hover > .hanchor {
     color: var(--secondary);
   }
+}
+h1 {
+  font-size: 2rem;
+}
+h2 {
+  font-size: 1.75rem;
+}
+h3 {
+  font-size: 1.50rem;
 }
 
 .hanchor {

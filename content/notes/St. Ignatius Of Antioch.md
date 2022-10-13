@@ -1,8 +1,7 @@
 ---
-title: "Ignatius Of Antioch"
+title: "St. Ignatius Of Antioch"
 enableToc: true
 ---
-# St. Ignatius Of Antioch
 
 ## Who is St. Ignatius of Antioch?
 {{< youtube wdeizCtkxZo >}}
