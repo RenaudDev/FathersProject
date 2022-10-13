@@ -10,6 +10,6 @@ enableToc: false
 {{< youtube wdeizCtkxZo >}}
 
 ## Writings of St. Ignatius Of Antioch
-- [[content/notes/The Epistle of Ignatius of Antioch to the Ephesians]]
-- [[content/notes/The Epistle of Ignatius to the Magnesians]]
+- [[notes/The Epistle of Ignatius of Antioch to the Ephesians]]
+- [[notes/The Epistle of Ignatius to the Magnesians]]
 - 
